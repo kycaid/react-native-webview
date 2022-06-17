@@ -1,16 +1,12 @@
 {
-  "name": "react-native-webview",
+  "name": "@kycaid/react-native-webview",
   "description": "React Native WebView component for iOS, Android, macOS, and Windows",
   "main": "index.js",
   "main-internal": "src/index.ts",
   "typings": "index.d.ts",
-  "author": "Jamon Holmgren <jamon@infinite.red>",
-  "contributors": [
-    "Thibault Malbranche <malbranche.thibault@gmail.com>"
-  ],
   "license": "MIT",
-  "version": "11.22.2",
-  "homepage": "https://github.com/react-native-webview/react-native-webview#readme",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kycaid/react-native-webview#readme",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios --project-path example/ios",
@@ -72,7 +68,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-webview/react-native-webview.git"
+    "url": "https://github.com/kycaid/react-native-webview"
   },
   "files": [
     "android",
