@@ -7,6 +7,7 @@
   "license": "MIT",
   "version": "22.6.1",
   "homepage": "https://github.com/kycaid/react-native-webview#readme",
+  "author": "KYCAID Limited <info@kycaid.com>",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios --project-path example/ios",
@@ -79,7 +80,7 @@
     "lib",
     "index.js",
     "index.d.ts",
-    "react-native-webview.podspec",
+    "kycaid-react-native-webview.podspec",
     "react-native.config.js"
   ]
 }
