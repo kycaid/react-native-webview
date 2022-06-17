@@ -5,7 +5,7 @@
   "main-internal": "src/index.ts",
   "typings": "index.d.ts",
   "license": "MIT",
-  "version": "22.6.0",
+  "version": "22.6.1",
   "homepage": "https://github.com/kycaid/react-native-webview#readme",
   "scripts": {
     "android": "react-native run-android",
